@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyTanksFixed.Plugins", "TinyTanksFixed.Plugins.csproj", "{20E768A0-F606-A6DF-D3EF-7FC93ED8C85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyTanksFixed", "TinyTanksFixed.csproj", "{9972F56C-EFFD-EBA1-F5D5-BD61DDC3FCA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyTanksFixed.Editor.Plugins", "TinyTanksFixed.Editor.Plugins.csproj", "{B2A62E34-EC4C-D92A-B384-CBE9B3CDEB2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E768A0-F606-A6DF-D3EF-7FC93ED8C85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E768A0-F606-A6DF-D3EF-7FC93ED8C85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E768A0-F606-A6DF-D3EF-7FC93ED8C85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E768A0-F606-A6DF-D3EF-7FC93ED8C85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9972F56C-EFFD-EBA1-F5D5-BD61DDC3FCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9972F56C-EFFD-EBA1-F5D5-BD61DDC3FCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9972F56C-EFFD-EBA1-F5D5-BD61DDC3FCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9972F56C-EFFD-EBA1-F5D5-BD61DDC3FCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A62E34-EC4C-D92A-B384-CBE9B3CDEB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A62E34-EC4C-D92A-B384-CBE9B3CDEB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A62E34-EC4C-D92A-B384-CBE9B3CDEB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A62E34-EC4C-D92A-B384-CBE9B3CDEB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
